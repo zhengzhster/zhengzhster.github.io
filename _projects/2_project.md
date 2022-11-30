@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DeepUrfold
-description: deep generative models of protein structure to explore distant relationships across a Ccontinuous fold space
+description: deep generative models of protein structure to explore distant relationships across a continuous fold space
 img: assets/img/DeepUrfold.png
 redirect: https://bournelab.org/research/DeepUrfold
 importance: 2

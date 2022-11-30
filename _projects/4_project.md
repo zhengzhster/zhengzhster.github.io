@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 6CysDB
-description: A webserver to study the structure and evolution evolution of the ‘6-Cys’ domain containing proteins proteins from Plasmodium falicparum, the cuasitive agent of malaria. Initial version for Plasmodium created in Dietlind Gerloff’s lab at UC Santa Cruz, but in the future it will include all Apicomplexan parasites.
+description: a webserver to study the structure and evolution of the ‘6-Cys’ domain containing proteins proteins from Plasmodium falicparum, the cuasitive agent of malaria.
 img: assets/img/6CysDB.png
-importance: 4
+importance: 5
 category: work
 redirect: http://http//pgsh.soe.ucsc.edu/
 ---
