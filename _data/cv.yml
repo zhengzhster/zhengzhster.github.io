@@ -29,8 +29,8 @@
       institution: University of Virginia, Charlottesville, VA
       year: Jan 2018-
       description:
-        - Description 1.
-        - Description 2.
+        - Developed <i>Prop3D</i>, a python framework to compute atomic, residue and graph level physicochemcal properties for all CATh domain in the cloud and share using HSDS
+        - Developed <i>DeepUrfold</i> and <i>DeepUrfold-explain</i>, explainable deep generative models to explore remote relationships between CATH superfamilies at the Urfold level (e.g. discontinoud peptide fragments)
 
     - title: Predoctoral Fellow
       institution: National Institutes of Health, Bethesda, MD
@@ -88,17 +88,17 @@
     - title: "Deep Generative Models of Protein Domain Structures Uncover Distant Relationships: Evidence for an Urfold"
       institution: NeurIPS-LMRL, Virtual
       year: Dec 11 2020
-      description: https://doi.org/10.5281/zenodo.4299037
+      description: [Zenodo](https://doi.org/10.5281/zenodo.4299037)
     
     - title: "Deep Learning of Protein Structural Classes: Any Evidence for an 'Urfold'?"
       institution: ISMB-3DSig, Virtual
       year: Jul 15 2020
-      description: https://doi.org/10.5281/zenodo.3909755
+      description: [Zenodo](https://doi.org/10.5281/zenodo.3909755)
 
     - title: "Determining the functions of the Apicomplexan SRS/6-Cys protein family:  A Structural and Evolutionary Understanding of Pathogen Invasion"
       institution: ISMB-ISCB Student Council Symposium, Prague, CZ
       year: Jul 21 2017
-      description: https://doi.org/10.5281/zenodo.3909755
+      description: [Zenodo](https://doi.org/10.5281/zenodo.3909755)
     
     - title: "Classification of Histone Variants"
       institution: ICSB RSG-DC Student Research Symposium, College Park, MD
