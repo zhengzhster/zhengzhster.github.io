@@ -22,9 +22,8 @@ I am a PhD Candidate in Biomedical Engeering interested in Structural Bioinforma
 
 I am currrenly looking for industry or postdocs postions at the intersection of structural biology and deep learning.
 
-Previosly I have worked with Anna Panchenko, Debbie Marks, Mark Blaxter, Dietlind Gerloff and Paul Adams.
+Previosly, I was an ML intern @ VantAI as well as worked in the labs of Anna Panchenko, Debbie Marks, Mark Blaxter, Dietlind Gerloff and Paul Adams.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
