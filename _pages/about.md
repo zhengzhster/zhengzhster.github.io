@@ -2,29 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: University of Virginia (till December 8th then ??)
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false # crops the image to make it circular
+  address:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in Biomedical Engeering interested in Structural Bioinformatics, Deep Learning, Evolution, Protein-Protein Interactions and Parisitology. 
+I am a PhD Candidate in [Phil Bourne's lab](https://bournelab.org) in the University of Virginia Department of Biomedical Engineering. I am fascinated by protein structure, machine Learning, evolution, protein-protein interactions and parisitology. 
 
 I am currrenly looking for industry or postdocs postions at the intersection of structural biology and deep learning.
 
-Previosly, I was an ML intern @ VantAI as well as worked in the labs of Anna Panchenko, Debbie Marks, Mark Blaxter, Dietlind Gerloff and Paul Adams.
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I was an ML intern @ [VantAI](https://www.vant.ai/) as well as worked in the labs of [Anna Panchenko](https://panchenko-lab.org/), [Debbie Marks](https://www.deboramarkslab.com/), [Mark Blaxter](https://www.sanger.ac.uk/person/blaxter-mark/), [Dietlind Gerloff](http://www.ffame.org/dgerloff.php) and [Paul Adams](http://cci.lbl.gov/~paul/).

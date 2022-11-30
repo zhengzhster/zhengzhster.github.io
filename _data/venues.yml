@@ -1,6 +1,6 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"preprint":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"MLSB 2022":
+  url: "https://www.mlsb.io/"
+  color: "#ff0000"
