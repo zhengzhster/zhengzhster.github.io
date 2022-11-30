@@ -2,7 +2,7 @@
 layout: page
 title: DeepUrfold
 description: deep generative models of protein structure to explore distant relationships across a Ccontinuous fold space
-img: assets/img/DeepUrfold.jpg
+img: assets/img/DeepUrfold.png
 importance: 2
 category: work
 github: https://github.com/bouralab/DeepUrfold

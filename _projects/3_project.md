@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: HistoneDB 2.0
+description: a webserver to store and classify histone sequences by variant using an ensemble of hidden Markov Models
+img: assets/img/HistoneDB.png
+redirect: http://ncbi.nlm.nih.gov/projects/HistoneDB
 importance: 3
 category: work
+github: https://github.com/edraizen/HistoneDB
 ---
 
 Every project has a beautiful feature showcase page.
