@@ -1,25 +1,16 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Eli Draizen
-    - name: Date of Birth
-      value: 26th January 1992
-    - name: Languages
-      value: English
-
 - title: Education
   type: time_table
   contents:
     - title: Doctor of Philosophy, Biomedical Engineering
-      institution: University of Virginia
-      year: December 2022
+      institution: University of Virginia, Charlottesville, VA
+      year: Dec 2022
       description:
+        - "Advisors: Philip E. Bourne and Cameron Mura"
+        - "Chair: Kristen M. Naegle"
+        - "Committee: Jason A. Papin, Aidong Zhang an Stephen Baek"
         - title: "Explainable Deep Generative Models, Ancestral Fragments, and Murky Regions of the Protein Structure Universe: Datasets, Models, and Analyses of Fold Space"
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Bachelors of Science, Bionformatics
+
+    - title: Bachelors of Science, Bioinformatics
       institution: University of California, Santa Cruz
       year: 2014
       description:
@@ -31,7 +22,7 @@
   contents:
     - title: Machine Learning Intern
       institution: VantAI, New York, NY
-      year: April-August 2022
+      year: Apr-Aug 2022
       description:
 
     - title: PhD Canndidate
@@ -43,14 +34,14 @@
 
     - title: Predoctoral Fellow
       institution: National Institutes of Health, Bethesda, MD
-      year: Sep 2015 -- Aug 2018
+      year: Sep 2015-Aug 2018
       description: 
         - Worked with Phil Bourne & Michael Grigg (NIAID)
         - Knocked out <i>T. gondii</i> surface proteins with CRISPR/Cas9 to understand function, evolution
 
     - title: Graduate Student Intern
       institution: Harvard Medical School, Boston, MA
-      year: Sep 2015 -- May 2016
+      year: Sep 2015-May 2016
       description:
         - Helped develop a python framework for coevolutionary sequence analysis
         - Added coevolutionary restraints into <i>Phenix</i> to improve low-resolution X-ray structures
@@ -64,7 +55,7 @@
 
     - title: Student Assistant
       institution: Lawrence Berkeley National Labs, Berkeley, CA
-      year: Apr-Dec 2014 and previosly Sum 2010-11
+      year: Apr-Dec 2014
       description:
         - Worked under Nigel Moriarty in Paul Adam's Lab
         - Validated and modelled glycoproteins by ligand fitting and built 2D carbohydrate builder
@@ -85,8 +76,16 @@
     
     - title: Undergraduate Researcher
       institution: University of California, Santa Cruz
-      year: Sep 2010 -- May 2013
+      year: Sep 2010-May 2013
       description:
         - Worked under Dietlind Gerloff
         - Predicted structures of Malarial surface proteins with MODELLER and HMMER
         - Created a public webserver to share structures
+
+- title: Talks
+  type: time_table
+  contents:
+    - title: Machine Learning Intern
+      institution: VantAI, New York, NY
+      year: Apr-Aug 2022
+      description:
