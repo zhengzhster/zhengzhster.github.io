@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Prop3D
+description: a flexible, Python-based platform for protein structural properties and biophysical data in machine learning
+img: assets/img/Prop3D.png
 importance: 1
 category: work
+github: https://www.github.com/bouralab/Prop3D
 ---
 
 Every project has a beautiful feature showcase page.

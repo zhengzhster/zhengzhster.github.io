@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: DeepUrfold
+description: deep generative models of protein structure to explore distant relationships across a Ccontinuous fold space
+img: assets/img/DeepUrfold.jpg
 importance: 2
 category: work
+github: https://github.com/bouralab/DeepUrfold
 ---
 
 Every project has a beautiful feature showcase page.
