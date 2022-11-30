@@ -6,6 +6,7 @@ img: assets/img/Prop3D.png
 importance: 1
 category: work
 github: https://www.github.com/bouralab/Prop3D
+redirect: https://zenodo.org/record/6873024#.Y4cLNezMI-Q
 ---
 
 Every project has a beautiful feature showcase page.
