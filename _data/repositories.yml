@@ -1,0 +1,11 @@
+github_users:
+  - edraizen
+  - bouralab
+
+github_repos:
+  - bouralab/Prop3D
+  - bouralab/DeepUrfold
+  - edraizen/HistoneDB
+  - edraizen/6CysDB
+  - edraizen/hsp_tiler
+  - edraizen/HMMPileUp
