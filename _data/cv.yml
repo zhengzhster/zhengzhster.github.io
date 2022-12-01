@@ -1,0 +1,133 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor of Philosophy, Biomedical Engineering
+      institution: University of Virginia, Charlottesville, VA
+      year: Dec 2022
+      description:
+        - "Advisors: Philip E. Bourne and Cameron Mura"
+        - "Chair: Kristen M. Naegle"
+        - "Committee: Jason A. Papin, Aidong Zhang an Stephen Baek"
+        - "Title: <b>Explainable Deep Generative Models, Ancestral Fragments, and Murky Regions of the Protein Structure Universe: Datasets, Models, and Analyses of Fold Space</b>"
+
+    - title: Bachelors of Science, Bioinformatics
+      institution: University of California, Santa Cruz
+      year: 2014
+      description:
+        - "Thesis: <b>Correcting Frameshift Mutations in Transcriptomics Data</b>"
+        - "Advisors: Mark Blaxter (Edinburgh), Dietlind Gerloff"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Machine Learning Intern
+      institution: VantAI, New York, NY
+      year: Apr-Aug 2022
+      description:
+
+    - title: PhD Candidate
+      institution: University of Virginia, Charlottesville, VA
+      year: Jan 2018-
+      description:
+        - Developed <i>Prop3D</i>, a python framework to compute atomic, residue and graph level physicochemcal properties for all CATh domain in the cloud and share using HSDS
+        - Developed <i>DeepUrfold</i> and <i>DeepUrfold-explain</i>, explainable deep generative models to explore remote relationships between CATH superfamilies at the Urfold level (e.g. discontinoud peptide fragments)
+
+    - title: Predoctoral Fellow
+      institution: National Institutes of Health, Bethesda, MD
+      year: Sep 2015-Aug 2018
+      description: 
+        - Worked with Phil Bourne & Michael Grigg (NIAID)
+        - Knocked out <i>T. gondii</i> surface proteins with CRISPR/Cas9 to understand function, evolution
+
+    - title: Graduate Student Intern
+      institution: Harvard Medical School, Boston, MA
+      year: Sep 2015-May 2016
+      description:
+        - Helped develop a python framework for coevolutionary sequence analysis
+        - Added coevolutionary restraints into <i>Phenix</i> to improve low-resolution X-ray structures
+
+    - title: Postbac Fellow
+      institution: National Center for Biotechnology Information, Bethesda, MD
+      year: Jan-Aug 2015
+      description:
+        - Worked under Alexey Shaytan in Anna Panchenko's group
+        - Wrote HistoneDB 2.0 Django webserver to classify histone sequences by variant with HMMs
+
+    - title: Student Assistant
+      institution: Lawrence Berkeley National Labs, Berkeley, CA
+      year: Apr-Dec 2014
+      description:
+        - Worked under Nigel Moriarty in Paul Adam's Lab
+        - Validated and modelled glycoproteins by ligand fitting and built 2D carbohydrate builder
+
+    - title: Undergraduate Researcher
+      institution: The University of Edinburgh, Edinburgh, UK
+      year: Sep-Dec 2013
+      description:
+        - Worked under Martin Jones in Mark Blaxter's Lab for UCSC Senior Thesis
+        - Wrote HSP-Tiler to fix frameshift mutations in RNAseq data using python, BLAST, HMMs
+    
+    - title: Amgen Scholar
+      institution: Washington University in St. Louis, St. Louis, MO
+      year: May-Aug 2013
+      description:
+        - Worked under Garland Marshall
+        - Wrote python script to add subsituents to drugs and screened with OpenEye docking
+    
+    - title: Undergraduate Researcher
+      institution: University of California, Santa Cruz
+      year: Sep 2010-May 2013
+      description:
+        - Worked under Dietlind Gerloff
+        - Predicted structures of Malarial surface proteins with MODELLER and HMMER
+        - Created a public webserver to share structures
+
+- title: Invited Talks
+  type: time_table
+  contents:
+    - title: "Deep Generative Models of Protein Domain Structures Uncover Distant Relationships: Evidence for an Urfold"
+      institution: NeurIPS-LMRL, Virtual
+      year: Dec 11 2020
+      description: [Zenodo](https://doi.org/10.5281/zenodo.4299037)
+    
+    - title: "Deep Learning of Protein Structural Classes: Any Evidence for an 'Urfold'?"
+      institution: ISMB-3DSig, Virtual
+      year: Jul 15 2020
+      description: [Zenodo](https://doi.org/10.5281/zenodo.3909755)
+
+    - title: "Determining the functions of the Apicomplexan SRS/6-Cys protein family:  A Structural and Evolutionary Understanding of Pathogen Invasion"
+      institution: ISMB-ISCB Student Council Symposium, Prague, CZ
+      year: Jul 21 2017
+      description: [Zenodo](https://doi.org/10.5281/zenodo.3909755)
+    
+    - title: "Classification of Histone Variants"
+      institution: ICSB RSG-DC Student Research Symposium, College Park, MD
+      year: May 14 2015
+
+- title: Contibuted and Seminar Talks
+  type: time_table
+  contents:
+    - title: "Large-scale Biological Data Engineering with HDF5 + the Highly Scalable Data Service"
+      institution: Using HDF5 and HSDS for Open Science Research at Scale Workshop, University of Notre Dame, South Bend, IA (Virtual)
+      year: Apr 1 2022
+      description: https://doi.org/10.5281/zenodo.6406982
+
+    - title: "Deep Generative Models of Protein Domain Structures Can Uncover Distant Relationships: Evidence for an 'Urfold'"
+      institution: GBMES Student Summer Seminar Series, University of Virginia, Charlottesville, VA
+      year: Jun 25 2021
+    
+    - title: "Protein Interaction Prediction Using Deep Learning and Protein Structural Data"
+      institution: Systems Biology Journal Club, Dept. of Biomedical Engineering, University of Virginia, Charlottesville, VA
+      year: Jul 31 2019
+  
+    - title: "Deep Learning Approaches to Predict Protein-Protein Interactions"
+      institution: ISMB-ISCB Student Council Symposium, Chicago, IL
+      year: Jul 6 2018
+    
+    - title: "Deep Learning Approaches to Predict Protein-Protein Binding Sites"
+      institution: Computational Biology Branch Seminar, NCBI/NLM, National Institutes of Health, Bethesda, MD
+      year: Apr 19,2018
+    
+    - title: "Determining the Function of the Apicomplexan SRS/6-Cys Protein Family: A Structural and Evolutionary Understanding of Pathogen Invasion"
+      institution: Laboratory of Parasitic Diseases Division Seminar, NIAID, National Institutes of Health, Bethesda, MD
+      year: May 11 2017
