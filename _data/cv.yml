@@ -5,10 +5,10 @@
       institution: University of Virginia, Charlottesville, VA
       year: Dec 2022
       description:
+        - "Title: <b>Explainable Deep Generative Models, Ancestral Fragments, and Murky Regions of the Protein Structure Universe: Datasets, Models, and Analyses of Fold Space</b>"
         - "Advisors: Philip E. Bourne and Cameron Mura"
         - "Chair: Kristen M. Naegle"
         - "Committee: Jason A. Papin, Aidong Zhang an Stephen Baek"
-        - "Title: <b>Explainable Deep Generative Models, Ancestral Fragments, and Murky Regions of the Protein Structure Universe: Datasets, Models, and Analyses of Fold Space</b>"
 
     - title: Bachelors of Science, Bioinformatics
       institution: University of California, Santa Cruz
@@ -85,49 +85,53 @@
 - title: Invited Talks
   type: time_table
   contents:
-    - title: "Deep Generative Models of Protein Domain Structures Uncover Distant Relationships: Evidence for an Urfold"
+    - title: Deep Generative Models of Protein Domain Structures Uncover Distant Relationships- Evidence for an Urfold
       institution: NeurIPS-LMRL, Virtual
       year: Dec 11 2020
-      description: [Zenodo](https://doi.org/10.5281/zenodo.4299037)
+      description: 
+        - <a href="https://doi.org/10.5281/zenodo.4299037">Zenodo</a>
     
-    - title: "Deep Learning of Protein Structural Classes: Any Evidence for an 'Urfold'?"
+    - title: Deep Learning of Protein Structural Classes- Any Evidence for an Urfold?
       institution: ISMB-3DSig, Virtual
       year: Jul 15 2020
-      description: [Zenodo](https://doi.org/10.5281/zenodo.3909755)
+      description: 
+        - <a href="https://doi.org/10.5281/zenodo.3909755">Zenodo</a>
 
-    - title: "Determining the functions of the Apicomplexan SRS/6-Cys protein family:  A Structural and Evolutionary Understanding of Pathogen Invasion"
+    - title: Determining the functions of the Apicomplexan SRS/6-Cys protein family-  A Structural and Evolutionary Understanding of Pathogen Invasion
       institution: ISMB-ISCB Student Council Symposium, Prague, CZ
       year: Jul 21 2017
-      description: [Zenodo](https://doi.org/10.5281/zenodo.3909755)
+      description: 
+        - <a href="https://doi.org/10.5281/zenodo.3909755">Zenodo</a>
     
-    - title: "Classification of Histone Variants"
+    - title: Classification of Histone Variants
       institution: ICSB RSG-DC Student Research Symposium, College Park, MD
       year: May 14 2015
 
 - title: Contibuted and Seminar Talks
   type: time_table
   contents:
-    - title: "Large-scale Biological Data Engineering with HDF5 + the Highly Scalable Data Service"
+    - title: Large-scale Biological Data Engineering with HDF5 + the Highly Scalable Data Service
       institution: Using HDF5 and HSDS for Open Science Research at Scale Workshop, University of Notre Dame, South Bend, IA (Virtual)
       year: Apr 1 2022
-      description: https://doi.org/10.5281/zenodo.6406982
+      description: 
+        - <a href="https://doi.org/10.5281/zenodo.6406982">Zenodo</a>
 
-    - title: "Deep Generative Models of Protein Domain Structures Can Uncover Distant Relationships: Evidence for an 'Urfold'"
+    - title: Deep Generative Models of Protein Domain Structures Can Uncover Distant Relationships- Evidence for an Urfold
       institution: GBMES Student Summer Seminar Series, University of Virginia, Charlottesville, VA
       year: Jun 25 2021
     
-    - title: "Protein Interaction Prediction Using Deep Learning and Protein Structural Data"
+    - title: Protein Interaction Prediction Using Deep Learning and Protein Structural Data
       institution: Systems Biology Journal Club, Dept. of Biomedical Engineering, University of Virginia, Charlottesville, VA
       year: Jul 31 2019
   
-    - title: "Deep Learning Approaches to Predict Protein-Protein Interactions"
+    - title: Deep Learning Approaches to Predict Protein-Protein Interactions
       institution: ISMB-ISCB Student Council Symposium, Chicago, IL
       year: Jul 6 2018
     
-    - title: "Deep Learning Approaches to Predict Protein-Protein Binding Sites"
+    - title: Deep Learning Approaches to Predict Protein-Protein Binding Sites
       institution: Computational Biology Branch Seminar, NCBI/NLM, National Institutes of Health, Bethesda, MD
       year: Apr 19,2018
     
-    - title: "Determining the Function of the Apicomplexan SRS/6-Cys Protein Family: A Structural and Evolutionary Understanding of Pathogen Invasion"
+    - title: Determining the Function of the Apicomplexan SRS/6-Cys Protein Family- A Structural and Evolutionary Understanding of Pathogen Invasion
       institution: Laboratory of Parasitic Diseases Division Seminar, NIAID, National Institutes of Health, Bethesda, MD
       year: May 11 2017
