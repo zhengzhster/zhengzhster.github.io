@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>265# </p>
-    <p>Chemistry Building</p>
+    <p>265# Chemistry Building</p>
     <p>Charlottesville, VA 22903</p>
+    <p>zz7r(at)virginia(dot)edu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
