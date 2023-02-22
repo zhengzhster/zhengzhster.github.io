@@ -23,16 +23,17 @@ layout: default
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
+              {% include figure.html
+              path=profile_image_path
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            <!-- zhengzhster
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
             </div>
-            {%- endif %}
+            {%- endif %} -->
           </div>
           {%- endif %}
 
@@ -62,7 +63,7 @@ layout: default
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>
-              
+
             </div>
           {%- endif %}
         </article>
