@@ -1,8 +1,9 @@
 ---
 layout: page
 title: project 6
-description: a project with no image
+description: Preparing
 img:
+redirect: https://
 importance: 4
 category: fun
 ---

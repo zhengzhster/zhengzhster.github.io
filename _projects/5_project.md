@@ -1,8 +1,9 @@
 ---
 layout: page
 title: project 5
-description: a project with a background image
+description: Preparing
 img: assets/img/1.jpg
+redirect: https://
 importance: 3
 category: fun
 ---
