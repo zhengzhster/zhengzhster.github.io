@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Data Science, UVA</a>.
-subtitle: <a href='#'>Email: zz7r(at)virginia.edu</a>.
+subtitle: <a href='#'>School of Data Science, UVA. Email: zz7r(at)virginia.edu</a>.
 
 profile:
   align: right
