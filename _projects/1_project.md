@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
+title: SDS, UVA
 description: a project with a background image
 img: assets/img/12.jpg
+redirect: https://datascience.virginia.edu/
 importance: 1
 category: work
 ---
