@@ -11,9 +11,10 @@
       year: Dec 2008
       description:
         - "Advisor: Prof. Dr. Haiyan Liu"
-        - "         School of Life Science, University of Science and Technology of China"
         - "Title: Multiple Levels of Theory Approaches to QM/MM Studies of Enzyme Mechanisms"
-
+            contents:
+              - "Quantum Mechanical/Molecular Mechanical Method"
+              - "Catalytic Mechanisms of Serine Dehydratase"
     - title: Bachelors of Science, Chemistry
       institution: Wuhan University, China
       year: Jul 1999
