@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Data Science, UVA</a> School of Data Science, University of Virginia, Charlottesville, VA 22904; zz7r(at)virginia.edu; Tel: (434) 982-2600
+subtitle: <a href='#'>School of Data Science, UVA</a>
 
 profile:
   align: right
@@ -17,6 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+School of Data Science, University of Virginia, Charlottesville, VA 22904; zz7r(at)virginia.edu; Tel: (434) 982-2600
 
 I am a Research Scientist in [Phil Bourne’s lab](https://datascience.virginia.edu/people/phil-bourne) at the University of Virginia School of Data Science.
 
