@@ -11,15 +11,15 @@
       year: Dec 2008
       description:
         - "Advisor: Prof. Dr. Haiyan Liu"
-        - "School of Life Science, University of Science and Technology of China"
+        - "         School of Life Science, University of Science and Technology of China"
         - "Title: Multiple Levels of Theory Approaches to QM/MM Studies of Enzyme Mechanisms"
 
     - title: Bachelors of Science, Chemistry
       institution: Wuhan University, China
       year: Jul 1999
       description:
-        - Description 1.
-        - Description 2.
+        - "Advisors: Jie Wan and Jianguo Ren"
+        - "Title: Synthesis and Characterization of Cytochrome C Oxidase Active-site Models"
 
 - title: Experience
   type: time_table
