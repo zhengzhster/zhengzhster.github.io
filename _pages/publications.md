@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Select Publications(Publications Link to Google Scholar[https://scholar.google.com/citations?hl=en&user=siE8wmkAAAAJ&view_op=list_works&sortby=pubdate])
+title: Publications
+description: Select Publications
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014]
 nav: true
 nav_order: 2

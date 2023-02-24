@@ -22,4 +22,4 @@ I am a Research Scientist in Phil Bourne’s lab at the University of Virginia S
 
 My research is about Health and Biomedical Data Science, mainly focusing on the method development and application of computational drug design and discovery, machine/deep Learning, etc.
 
-For more research information, please refer to my publications list at Google_scholar.
+For more research information, please refer to my publications list at Google_scholar[https://scholar.google.com/citations?hl=en&user=siE8wmkAAAAJ&view_op=list_works&sortby=pubdate].
