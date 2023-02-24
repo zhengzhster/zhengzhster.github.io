@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SDS, UVA
-description: a project with a background image
+description: A School Without Walls
 img: assets/img/12.jpg
 redirect: https://datascience.virginia.edu/
 importance: 1
