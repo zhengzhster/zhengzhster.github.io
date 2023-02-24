@@ -2,7 +2,7 @@
 layout: page
 title: project 4
 description: Preparing
-img:
+img: assets/img/3.jpg
 redirect: https://
 importance: 3
 category: fun
