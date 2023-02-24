@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>265# Chemistry Building</p>
+  address:
+    <p>School of Data Science</p>
     <p>Charlottesville, VA 22903</p>
     <p>zz7r(at)virginia(dot)edu</p>
 
