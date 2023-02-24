@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p style="color:blue;"><b>School of Data Science • University of Virginia • zz7r(at)virginia.edu</b></p> <p> </p>
+subtitle: <p style="color:blue;"><b>School of Data Science • University of Virginia • zz7r(at)virginia.edu</b></p>
 
 profile:
   align: right
