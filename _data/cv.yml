@@ -10,14 +10,14 @@
       institution: University of Science and Technology of China, China
       year: Dec 2008
       description:
-        - Advisor Prof. Dr. Haiyan Liu
-        - School of Life Science, University of Science and Technology of China
-        - title: Multiple Levels of Theory Approaches to QM/MM Studies of Enzyme Mechanisms
+        - "Advisor: Prof. Dr. Haiyan Liu"
+          - School of Life Science, University of Science and Technology of China
+        - "Title: Multiple Levels of Theory Approaches to QM/MM Studies of Enzyme Mechanisms"
           contents:
 
     - title: Bachelors of Science, Chemistry
       institution: Wuhan University, China
-      year: 1999
+      year: Jul 1999
       description:
         - Description 1.
         - Description 2.
