@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /https://datascience.virginia.edu/
+permalink: /
 subtitle: <a href='#'>School of Data Science, UVA</a>
 
 profile:
