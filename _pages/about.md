@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<b>School of Data Science • University of Virginia • zz7r(at)virginia.edu</b>
+<p style="color:blue;">School of Data Science • University of Virginia • zz7r(at)virginia.edu</p>
 
 I am a Research Scientist in [Phil Bourne’s lab](https://datascience.virginia.edu/people/phil-bourne) at the University of Virginia School of Data Science.
 
