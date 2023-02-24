@@ -1,6 +1,6 @@
-- title: General Information
-  type: map
-  contents:
+#- title: General Information
+#  type: map
+#  contents:
 
 
 - title: Education
@@ -19,7 +19,7 @@
       institution: Wuhan University, China
       year: Jul 1999
       description:
-        - "Advisors: Prof. Jie Wan and Prof. Jianguo Ren"
+        - "Advisors: Prof. Jie Wan and Prof. Jianguo Ren
         - "Title: Synthesis and Characterization of Cytochrome C Oxidase Active-site Models"
 
 - title: Experience
