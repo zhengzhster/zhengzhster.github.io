@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Data Science, UVA</a>
+subtitle: <a href='#'>School of Data Science, UVA</a> School of Data Science, University of Virginia, Charlottesville, VA 22904; zz7r(at)virginia.edu; Tel: (434) 982-2600
 
 profile:
   align: right
