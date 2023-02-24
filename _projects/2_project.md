@@ -3,7 +3,7 @@ layout: page
 title: project 2
 description: Preparing
 img: assets/img/7.jpg
-redirect: https://
+redirect: https://zhengzhster.github.io/MKIs/
 importance: 2
 category: work
 ---
