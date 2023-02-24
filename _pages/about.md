@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist in [Phil Bourne’s lab](https://datascience.virginia.edu/people/phil-bourne) at the University of Virginia School of Data Science.
+I am a Research Scientist in [Phil Bourne’s lab](https://datascience.virginia.edu/people/phil-bourne) at the University of Virginia School of Data Science and Biomedical Engineering Department.
 
 My research is about Health and Biomedical Data Science, mainly focusing on the method development and application of computational system pharmacology and machine/deep learning. Specifically, we strive to develop new methods and models for drug screening, drug target prediction and validation, and drug polypharmacology, and carry out disease-driven studies in drug design and discovery, drug repurposing, drug mechanisms of action, etc, contributing to treating intractable diseases, such as Alzheimer’s Disease, Parkinson Disease, Non-small Cell Lung Cancer, Melanoma, and Leukemia.
 
