@@ -61,6 +61,55 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+<html>
+<head>
+  	<title>Person Information</title>
+  	<meta charset="UTF-8">	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+	<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+</head>
+
+<body>
+  <h1>Zheng Zhao</h1>
+  <p>Welcome to the MKIs!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+
+   <script>
+    $(document).ready(function() {
+      // Fetch CSV data and parse it using Papa Parse
+      $.get('data.csv', function(data) {
+        const parsedData = Papa.parse(data, { header: true }).data;
+
+        // Create DataTable using parsed data
+        $('#example').DataTable({
+          data: parsedData,
+    				"columns":[
+    					{data: "Name"},
+    					{data: "Age"},
+    					{data: "Gender"},
+    				]
+    			 });
+    		 }
+      });
+    </script>  
+   <table id="example" class="display" style="width:100%">
+    <thead>
+	    <tr>
+	      <th>Name</th>
+	      <th>Age</th>
+	      <th>Gender</th>
+	    </tr>
+    </thead>
+    <tfoot>
+	    <tr>
+	      <th>Name</th>
+	      <th>Age</th>
+	      <th>Gender</th>
+	    </tr>
+    </tfoot>
+    </table>
+  </body>
+</html>
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
