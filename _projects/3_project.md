@@ -60,7 +60,6 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-<html>
 <head>
   	<title>Person Information</title>
   	<meta charset="UTF-8">	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
@@ -68,7 +67,6 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 </head>
 
-<body>
   <h1>Zheng Zhao</h1>
   <p>Welcome to the MKIs!</p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
@@ -95,8 +93,6 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 	 xmlhttp.send();
       });
     </script>
-
-
    <table id="example" class="display" style="width:100%">
     <thead>
 	    <tr>
@@ -115,8 +111,6 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 	    </tr>
     </tfoot>
     </table>
-  </body>
-</html>
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
