@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: MKIs
-img: assets/img/7.jpg
+img: assets/img/mki_project.png
 redirect: https://zhengzhster.github.io/MKIs/
 importance: 2
 category: work
