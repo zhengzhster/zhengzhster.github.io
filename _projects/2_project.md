@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: MKIs
+title: MKI Drug Design
+description: MKI Database
 img: assets/img/mki_project.png
 redirect: https://zhengzhster.github.io/MKIs/
 importance: 2
