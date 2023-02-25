@@ -74,36 +74,44 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 
    <script>
-    $(document).ready(function() {
-      // Fetch CSV data and parse it using Papa Parse
-      $.get('data.csv', function(data) {
-        const parsedData = Papa.parse(data, { header: true }).data;
-
-        // Create DataTable using parsed data
-        $('#example').DataTable({
-          data: parsedData,
+     $(document).ready(function(){
+	   var baseurl = "https://jsonplaceholder.typicode.com/todos";
+    	 var xmlhttp = new XMLHttpRequest();
+    	 xmlhttp.open("GET",baseurl,true);
+    	 xmlhttp.onreadystatechange = function(){
+    		 if(xmlhttp.readyState==4 && xmlhttp.status ==200){
+    			 var persons = JSON.parse(xmlhttp.responseText);
+    			 $("#example").DataTable({
+    				data:persons,
     				"columns":[
-    					{data: "Name"},
-    					{data: "Age"},
-    					{data: "Gender"},
+    					{data: "userId"},
+    					{data: "id"},
+    					{data: "title"},
+    					{data: "completed"}
     				]
     			 });
     		 }
+    	 };
+	 xmlhttp.send();
       });
-    </script>  
+    </script>
+
+
    <table id="example" class="display" style="width:100%">
     <thead>
 	    <tr>
-	      <th>Name</th>
-	      <th>Age</th>
-	      <th>Gender</th>
+	      <th>UserID</th>
+	      <th>ID</th>
+	      <th>Title</th>
+	      <th>Completed</th>
 	    </tr>
     </thead>
     <tfoot>
 	    <tr>
-	      <th>Name</th>
-	      <th>Age</th>
-	      <th>Gender</th>
+	      <th>UserID</th>
+	      <th>ID</th>
+	      <th>Title</th>
+	      <th>Completed</th>
 	    </tr>
     </tfoot>
     </table>
