@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MKI Drug Design
+title: Drug Design
 description: MKI Database
 img: assets/img/mki_project.png
 redirect: https://zhengzhster.github.io/MKIs/
