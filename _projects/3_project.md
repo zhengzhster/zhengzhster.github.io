@@ -3,7 +3,6 @@ layout: page
 title: project 3
 description: Preparing
 img: assets/img/7.jpg
-redirect: https://
 importance: 3
 category: work
 ---
