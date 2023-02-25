@@ -2,7 +2,7 @@
 layout: page
 title: SDS, UVA
 description: A School Without Walls
-img: assets/img/12.jpg
+img: assets/img/sds-logo.png
 redirect: https://datascience.virginia.edu/
 importance: 1
 category: work
