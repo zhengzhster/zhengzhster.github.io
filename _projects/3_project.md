@@ -4,6 +4,7 @@ title: project 3
 description: Preparing
 img: assets/img/7.jpg
 importance: 3
+redirect: https://zhengzhster.github.io/MKIs/
 category: work
 ---
 
