@@ -6,7 +6,7 @@ subtitle: <p style="color:blue;"><b>School of Data Science • University of Vir
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zheng-profile.gif
   image_circular: false # crops the image to make it circular
   address:
     <p>School of Data Science</p>
