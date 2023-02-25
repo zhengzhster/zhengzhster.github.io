@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: Preparing
+description: MKIs
 img: assets/img/7.jpg
 redirect: https://zhengzhster.github.io/MKIs/
 importance: 2
