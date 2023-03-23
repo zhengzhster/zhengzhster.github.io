@@ -14,7 +14,7 @@ The new manuscript titled "Rigid Scaffolds are Promising for Designing Macrocycl
 
 <ul>
     <li>03-21-2023 First submitted to journal.</li>
-    <li>03-22-2023 Submission checked by the Journal and the Cover Letter needs to be resubmitted.</li>
+    <li>03-22-2023 Submission checked by the Journal, and the Cover Letter needs to be resubmitted.</li>
 </ul>
 
 
