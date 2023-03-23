@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our new manuscript on Macrocyclic Kinase Inhibitors is posted on BioXriv
-date: 2023-03-21 15:59:00-0400
+date: 2023-03-20 15:59:00-0400
 inline: false
 related_posts: false
 ---
