@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-13 15:59:00-0400
+date: 2023-03-22 15:59:00-0400
 inline: true
 ---
 
-The New Paper entitled "Analysis of KRAS–Ligand Interaction Modes and Flexibilities Reveals the Binding Characteristics" is accepted by [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c00097)
+Our new manuscript titled "Rigid Scaffolds are Promising for Designing Macrocyclic Kinase Inhibitors" is posted on the preprint server [bioXriv](https://www.biorxiv.org/content/10.1101/2023.03.17.533119v1).
