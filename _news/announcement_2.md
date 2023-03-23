@@ -1,7 +1,20 @@
 ---
 layout: post
-date: 2023-02-13 15:59:00-0400
-inline: true
+title: Publication Timeline of the Paper.
+date: 2023-03-21 15:59:00-0400
+inline: false
+related_posts: false
 ---
 
-The New Paper entitled "Analysis of KRAS–Ligand Interaction Modes and Flexibilities Reveals the Binding Characteristics" is accepted by [JCIM](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c00097)
+
+***
+Our new manuscript titled "Rigid Scaffolds are Promising for Designing Macrocyclic Kinase Inhibitors" is posted on the preprint server [bioXriv](https://www.biorxiv.org/content/10.1101/2023.03.17.533119v1).
+
+#### Timeline:
+<ul>
+    <li>03-21-2023 First submitted to journal.</li>
+    <li>03-22-2023 Submission check by Journal and the Cover Letter needs to be resubmitted.</li>
+</ul>
+
+
+***
