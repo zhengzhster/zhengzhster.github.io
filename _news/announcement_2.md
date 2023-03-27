@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New preprint on Macrocyclic Kinase Inhibitors
+title: New preprint on Macrocyclic Kinase Inhibitors [more...]
 date: 2023-03-20 15:59:00-0400
 inline: false
 related_posts: false
