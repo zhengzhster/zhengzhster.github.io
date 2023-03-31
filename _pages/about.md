@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p style="color:blue;"><b>School of Data Science • University of Virginia • zheng.zhao(at)virginia.edu</b></p>
+subtitle: <p style="color:blue;"><b>School of Data Science • School of Medicine • University of Virginia • zheng.zhao(at)virginia.edu</b></p>
 
 profile:
   align: right
