@@ -21,4 +21,4 @@ Zheng is a Research Scientist in [Prof. Dr. Phil Bourne’s lab](https://bournel
 Zheng earned his Ph.D in Bioinformatics from University of Science and Technology of China (Advisor: [Prof. Dr. Haiyan Liu](https://biox.ustc.edu.cn/2011/0825/c24188a508659/page.htm); Thesis Title: Multiple Levels of Theory Approaches to QM/MM Studies of Enzyme Mechanisms). Currently, Zheng's research is about Health and Biomedical Data Science, striving to develop new methods and applications of computational system pharmacology and machine/deep learning for drug screening, target prediction and validation, and polypharmacology; carrying out disease-associated studies in drug design and discovery, repurposing, mechanisms of action, etc; and contributing to treating intractable diseases, such as Alzheimer’s Disease, Parkinson's Disease, Non-small Cell Lung Cancer, Melanoma, and Leukemia.
 
 <p style="color:purple;"><b> <font size="+2"> Contact:</font> </b></p> <p><b>School of Data Science; Email: zz7r@virginia.edu</b><br/></p>
-<p><b>Elson Bldg 149, Charlottesville, VA 22903</b></p>
+<p><b>Elson Bldg 149, Charlottesville, VA 22903</b><br/></p>
