@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: <p><b>School of Data Science; Email: zz7r@virginia.edu; Elson Bldg 149, Charlottesville, VA 22903</b><br/></p>
+  address: <p><b>School of Data Science; Email: zz7r@virginia.edu; Elson Bldg 149, Charlottesville, VA 22903</b></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
