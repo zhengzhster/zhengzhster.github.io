@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p style="color:blue;"> <b>School of Data Science  <font size="+4">•</font>  Email zz7r@virginia.edu  <font size="+4">•</font>  Elson Bldg 149, Charlottesville, VA 22903</b></p>
+subtitle: <p style="color:blue;"> <b>School of Data Science  •  Email zz7r@virginia.edu  •  Elson Bldg 149, Charlottesville, VA 22903</b></p>
 
 profile:
   align: right
