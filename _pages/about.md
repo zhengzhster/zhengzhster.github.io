@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p style="color:blue;"><b>University of Virginia</b></p>
+subtitle: <p style="color:blue;"><b>School of Data Science; Email: zz7r@virginia.edu; Elson Bldg 149, Charlottesville, VA 22903</b></p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: <p><b>School of Data Science; Email: zz7r@virginia.edu; Elson Bldg 149, Charlottesville, VA 22903</b></p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
