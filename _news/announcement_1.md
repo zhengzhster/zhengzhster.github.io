@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper accepted
+title: 2023-02-13 New paper accepted
 date: 2023-02-13 15:59:00-0400
 inline: false
 related_posts: false
@@ -16,5 +16,3 @@ The New Paper entitled “Analysis of KRAS–Ligand Interaction Modes and Flexib
     <li>02-13-2023 First submitted to journal.</li>
 </ul>
 ***
-
-F
