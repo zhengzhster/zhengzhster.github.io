@@ -14,9 +14,7 @@ Our new manuscript titled "Exploring Extended Warheads of Reversible and Irrever
 
 <ul>
     <li>04-16-2024 First submitted to journal.</li>
-
-
 </ul>
-
-
 ***
+
+Feb 13, 2023	The New Paper entitled “Analysis of KRAS–Ligand Interaction Modes and Flexibilities Reveals the Binding Characteristics” is accepted by [JCIM](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00097).
