@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New preprint on Exploring Extended Warheads [more...]
-date: 2023-04-16 15:59:00-0400
+date: 2024-04-16 15:59:00-0400
 inline: false
 related_posts: false
 ---
