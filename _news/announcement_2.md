@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New preprint on Exploring Extended Warheads [more...]
+title: New preprint on Chemrxiv about Exploring Extended Warheads [more...]
 date: 2024-04-16 15:59:00-0400
 inline: false
 related_posts: false
