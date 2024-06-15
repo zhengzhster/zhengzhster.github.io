@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-02-13 New paper accepted
+title: New paper about KRAS accepted
 date: 2023-02-13 15:59:00-0400
 inline: false
 related_posts: false
