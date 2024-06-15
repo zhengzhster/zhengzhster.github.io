@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p style="color:blue;"> <b>❖   Email zz7r@virginia.edu   ❖   School of Data Science   ❖   1919 Ivy Road Room 405, Charlottesville, VA 22903</b></p>
+subtitle: <p style="color:blue;"> <b>❖   Email zz7r@virginia.edu   ❖   School of Data Science   ❖   1919 Ivy Road, Room 405, Charlottesville, VA 22903</b></p>
 
 profile:
   align: right
