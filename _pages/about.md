@@ -6,7 +6,7 @@ subtitle: <p style="color:blue;"> <b>❖   Email zz7r@virginia.edu   ❖   Schoo
 
 profile:
   align: right
-  image: Prof_pic3.jpg
+  image: Prof_pic4.jpg
   image_circular: false # crops the image to make it circular
   address:
       <p>University of Virginia</p>
