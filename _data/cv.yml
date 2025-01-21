@@ -1,11 +1,5 @@
 - title: General Information
   type: map
   contents:
-    - name: Name:
+    - name: Full Name
       value: Zheng Zhao
-    - name: Email:
-      value: zz7r[@]virginia.edu
-    - name: Address:
-      value: School of Data Science and Biomedical Engineering Department, University of Virginia
-    - name: office location:
-      value: 1919 Ivy Road, Room 405, Charlottesville, Virginia 22903
