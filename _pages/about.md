@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p style="color:blue;"> <b>❖   Email zz7r[@]virginia.edu   ❖   School of Data Science, University of Virginia, Charlottesville, VA 22903</b></p>
+subtitle: <p style="color:blue;"> <b>❖   Email zz7r[at]virginia[dot]edu[no dot]   ❖   School of Data Science, University of Virginia, Charlottesville, VA 22903</b></p>
 
 profile:
   align: right
